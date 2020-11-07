@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509465148089",
+    "firebase_url": "https://trabalhop2-d4ae3.firebaseio.com",
+    "project_id": "trabalhop2-d4ae3",
+    "storage_bucket": "trabalhop2-d4ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509465148089:android:cd0a0e947ff2116ba33968",
+        "android_client_info": {
+          "package_name": "br.trabalho.myapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509465148089-tlglqc64njamf0udngb6q0fvl1ne4oin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.trabalho.myapplication2",
+            "certificate_hash": "b081aae7ac48c36a11e4cea3c5f3370a5c5c3c07"
+          }
+        },
+        {
+          "client_id": "509465148089-27min3ug89j939pdk9p7i4bimnv6qv89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg8rN9mnVtYNw-THyK4J0ZRjHEZHfV5kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509465148089-27min3ug89j939pdk9p7i4bimnv6qv89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
